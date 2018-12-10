@@ -1,18 +1,17 @@
-# test site
+# Questo è il sito di DIO!
 
-questo è il sito di test
+## (scusate non sapevo fare di meglio)
 
-un elenco:
-- primo
-- - sotto punto
-- secondo
-- terzo
 
-| A  | B  |
-|---|---|
-| 11  | 12  |
-| 21  | 22  |
 
-![GitHub image](img/github_image.jpg)
+motivi per cui morire:
+- la vita fa schifo.
+- - non devi più lavorare.
+- se non hai un lavoro, non devi più cercarlo.
+- dormi un sacco.
+- niente più calzini come regali di natale da parte di zie.
 
-[link al mio sito](https://stefanocecere.com)
+
+![GitHub image](https://pa1.narvii.com/6351/a00399ba176c6adbfae3a3a9a97231c4547bce2b_hq.gif)
+
+[link al mio sito](https://google.com)
