@@ -14,4 +14,4 @@ motivi per cui morire:
 
 ![GitHub image](https://pa1.narvii.com/6351/a00399ba176c6adbfae3a3a9a97231c4547bce2b_hq.gif)
 
-[link al mio sito](https://google.com)
+[link al mio sito](http://cdn.funnyisms.com/7450a739-447a-4179-861f-64212c5e8b7f.gif)
